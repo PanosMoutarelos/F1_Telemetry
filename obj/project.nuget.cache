@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qS45aBQVjJA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Panagiotis\\source\\repos\\F1 Telemetry\\F1 Telemetry\\F1 Telemetry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Panagiotis\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Panagiotis\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
