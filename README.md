@@ -1,4 +1,4 @@
-<b font-size:20px>F1 Telemetry Simulator</b>
+<b>F1 Telemetry Simulator</b>
 
 A C# console application that simulates Formula 1 telemetry data (speed, RPM, throttle, braking, engine temperature) based on track-specific profiles stored in an SQLite database.
 
